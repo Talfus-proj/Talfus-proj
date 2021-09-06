@@ -1,4 +1,4 @@
-# Hello, visitor!
+# Hello, visitor! 👋
 
 My name is Ivaylo Georgiev. 
 
