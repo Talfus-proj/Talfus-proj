@@ -27,7 +27,7 @@ Markup languages:
 * HTML 
 * CSS 
 
-API
+API:
 * Google maps API
 
 ## 💻 Projects 
