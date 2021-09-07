@@ -16,31 +16,26 @@ Every morning I go to the swimming pool and during the weekend I visit the local
 ## 🌱 Currently studying...
 I recently finished Programming Basics C# course in Software University. 
 
-Currently studying about QA aiming to improve my testing and theoretical knowledge.
+Currently studying about QA aiming to improve my testing skills and theoretical understanding.
 
-In the past months I've used and been learning language: 
+I have been learning and practicing the following languages: 
 * C# 
+* PHP
+* JavaScript
 
 Markup languages:
 * HTML 
 * CSS 
 
-## 💻 Projects 
-Feel free to look at my projects in my github page. I plan to upload QA manual and automation projects as well.
-
-In the past I've been making websites from scratch by practicing my skills in different programming languages like:
-* HTML
-* CSS
-* JavaScript
-* PHP
+API
 * Google maps API
 
-In future there are many things I want to learn and I'll continue to gain knowledge and develop my skills.
+## 💻 Projects 
+
+I'll soon upload automation projects.
 
 ### 🥇 Proudest Projects
 * [Entrepreners Night Out](https://entrepreneursnightout.org/en/) is a business networking event that has been going on for 5 years. I am maintaining and improving the website myself using HTML, CSS and SEO.
-
-* Life-Train - Built responsive website from scratch with informative part and also custom made design & funtionality Google maps containing recommended sport locations.
 
 ## 🔧 Tools 
 ### Operating System
