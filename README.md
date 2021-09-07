@@ -48,6 +48,7 @@ I'll soon upload automation and SQL projects.
 ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=orange&style=plastic&logo=CSS3)
 ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=orange&style=plastic&logo=JavaScript)
 ![](https://img.shields.io/static/v1?label=Code&message=PHP&color=orange&style=plastic&logo=PHP)
+![](https://img.shields.io/static/v1?label=Code&message=SQL&color=orange&style=plastic&logo=mySQL)
 
 ### IDE's I use
 ![](https://img.shields.io/static/v1?label=IDE&message=Visual%20Studio&color=orange&style=plastic&logo=visual-studio)
