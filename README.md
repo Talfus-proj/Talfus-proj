@@ -33,7 +33,7 @@ API:
 
 ## 💻 Projects 
 
-I'll soon upload automation projects.
+I'll soon upload automation and SQL projects.
 
 ### 🥇 Proudest Projects
 * [Entrepreners Night Out](https://entrepreneursnightout.org/en/) is a business networking event that has been going on for 5 years. I am maintaining and improving the website myself using HTML, CSS and SEO.
