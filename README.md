@@ -22,6 +22,7 @@ I have been learning and practicing the following languages:
 * C# 
 * PHP
 * JavaScript
+* SQL
 
 Markup languages:
 * HTML 
