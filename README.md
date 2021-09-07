@@ -38,9 +38,9 @@ In the past I've been making websites from scratch by practicing my skills in di
 In future there are many things I want to learn and I'll continue to gain knowledge and develop my skills.
 
 ### 🥇 Proudest Projects
-* [Entrepreners Night Out](https://entrepreneursnightout.org/en/) is business networking event, operating from 5 year's. Built on Wordpress. I am providing maintanance and support using HTML and CSS, as well as SEO optimization and copywriting.
+* [Entrepreners Night Out](https://entrepreneursnightout.org/en/) is a business networking event that has been going on for 5 years. I am maintaining and improving the website myself using HTML, CSS and SEO.
 
-* Life-Train was sports movement, which aimed to improve people's lives through sport. Built responsive website from scratch with informative part and also custom made design & funtionality Google maps containing recommended sport locations.
+* Life-Train - Built responsive website from scratch with informative part and also custom made design & funtionality Google maps containing recommended sport locations.
 
 ## 🔧 Tools 
 ### Operating System
