@@ -20,8 +20,8 @@ Currently studying about QA aiming to improve my testing skills and theoretical 
 
 I have been learning and practicing the following languages: 
 * C# 
-* PHP
 * JavaScript
+* PHP
 * SQL
 
 Markup languages:
