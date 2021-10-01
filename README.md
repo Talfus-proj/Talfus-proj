@@ -71,7 +71,7 @@ I'll soon upload automation and SQL projects.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Talfus-proj&line_height=27&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true" />
 </a>
 <a href="https://github.com/Talfus-proj/Talfus-proj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talfus-proj&theme=chartreuse-dark&langs_count=5&hide=scss,less" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talfus-proj&theme=chartreuse-dark&langs_count=3&hide=scss,less" />
 </a>
 
 # Thank you for your time. All the best!
