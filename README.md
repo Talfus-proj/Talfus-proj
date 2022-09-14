@@ -2,7 +2,6 @@
 
 My name is Ivaylo Georgiev. 
 
-I'm from Sofia, Bulgaria and currently working towards my long-term goal to become QA Automation Engineer. 
 
 ## 📗 Hobbies 
 
