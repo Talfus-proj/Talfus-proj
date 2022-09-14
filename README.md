@@ -5,7 +5,7 @@ My name is Ivaylo Georgiev.
 
 ## 📗 Hobbies 
 
-Every morning I go to the swimming pool and during the weekend I visit the local gym or go for hiking on Vitosha. In my free time I like to read about Quality Assurance and practice my programming skills.
+Every morning I go to the swimming pool and during the weekend I visit the local gym or go for hiking on Vitosha. In my free time I like to learn different stuff.
 
 ## 📑Certificates 
 [Software University - QA Fundamentals - May 2021](https://softuni.bg/certificates/details/109315/73225a76)
