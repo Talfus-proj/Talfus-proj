@@ -19,20 +19,15 @@ Currently studying about QA aiming to improve my testing skills and theoretical 
 
 I have been learning and practicing the following languages: 
 * C# 
-* JavaScript
-* PHP
 * SQL
 
 Markup languages:
 * HTML 
 * CSS 
 
-API:
-* Google maps API
-
 ## 💻 Projects 
 
-I'll soon upload automation and SQL projects.
+Coming soon...
 
 ### 🥇 Proudest Projects
 * [Entrepreners Night Out](https://entrepreneursnightout.org/en/) is a business networking event that has been going on for 5 years. I am maintaining and improving the website myself using HTML, CSS and SEO.
