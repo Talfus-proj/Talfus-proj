@@ -15,8 +15,6 @@ Every morning I go to the swimming pool and during the weekend I visit the local
 ## 🌱 Currently studying...
 I recently finished Programming Basics C# course in Software University. 
 
-Currently studying about QA aiming to improve my testing skills and theoretical understanding.
-
 I have been learning and practicing the following languages: 
 * C# 
 * SQL
